@@ -35,9 +35,9 @@ Alongside software development, I have professional experience as a **Graphic De
 
 Currently I'm exploring:
 
-- 🤖 Artificial Intelligence & Machine Learning
+- 🤖 Artificial Intelligence & Data Science
 - 🌐 Full Stack Development
-- 🎨 UI/UX Design
+- 🎨 graphic Design
 - 🔒 Privacy & Cybersecurity
 - 🚀 Modern Web Technologies
 
