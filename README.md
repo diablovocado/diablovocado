@@ -1,8 +1,9 @@
 <div align="center">
   
-  <img src="header_banner.jpg" width="100%" alt="Maithili Pawar 3D Header Banner" />
+  <h1>👋 Hi, I'm Maithili Pawar</h1>
+  <h3>🎨 Graphic Designer • 💻 Full Stack Engineer • 🤖 AI & Privacy Architect</h3>
 
-  <br /><br />
+  <br />
 
   <p align="center">
     <code>SYSTEM: ONLINE 🟢</code> &nbsp;|&nbsp; 
