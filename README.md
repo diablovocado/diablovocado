@@ -1,8 +1,8 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Maithili%20Pawar&fontSize=42&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Graphic%20Designer%20%E2%80%A2%20AI%20%26%20Privacy%20Architect&descSize=16&descAlign=50&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="header_banner.jpg" width="100%" alt="Maithili Pawar 3D Header Banner" />
 
-  <br />
+  <br /><br />
 
   <p align="center">
     <code>SYSTEM: ONLINE 🟢</code> &nbsp;|&nbsp; 
@@ -192,6 +192,4 @@ I am a **Full Stack Engineer** and **Graphic Designer** based in Pune, India, pu
 
   <br />
   <p>✨ <em>"Design with creativity. Build with purpose."</em> ✨</p>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
