@@ -1,154 +1,197 @@
 <div align="center">
   
-  <h1>👋 Hi, I'm Maithili Pawar</h1>
-  <h3>🎨 Graphic Designer • 💻 Full Stack Developer • 🤖 AI Enthusiast</h3>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=00F5FF,7928CA,FF007F&height=160&section=header&text=Maithili%20Pawar&fontSize=48&fontAlign=50&fontAlignY=38&animation=twinkling&desc=%E2%9A%A1%20Full-Stack%20Engineer%20%E2%80%A2%20Graphic%20Designer%20%E2%80%A2%20AI%20%26%20Privacy%20Architect&descSize=16&descAlign=50&descAlignY=64" width="100%" alt="Header Banner" />
+
+  <br />
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/maithili-pawar-b670892ab/" target="_blank">
+    <code>SYSTEM: ONLINE 🟢</code> &nbsp;|&nbsp; 
+    <code>LOCATION: 📍 Pune, India</code> &nbsp;|&nbsp; 
+    <code>CLASS: 🎓 Computer Engineering '26</code>
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/maithili-pawar-b670892ab/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://www.behance.net/7487f4b5" target="_blank">
+    <a href="https://behance.net/7487f4b5" target="_blank">
       <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+    </a>
+    <a href="https://github.com/diablovocado">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="mailto:pawarmd37@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
+
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Building+Privacy-First+AI+%26+On-Device+Vision+Apps;Where+expressive+visual+design+meets+robust+code;Architecting+Zero-Trust+vaults+%26+Climate+Intelligence;Creating+delightful+desktop+companions+%26+brand+identities" alt="Typing Banner" />
+  </a>
+
 </div>
 
-<hr />
+---
 
-## 👩‍💻 About Me
+### 💡 About & Engineering Philosophy
 
-<table border="0">
+> *"Code provides the infrastructure; design gives it a soul."*
+
+I am a **Full Stack Engineer** and **Graphic Designer** based in Pune, India, pursuing a **Diploma in Computer Engineering (Class of 2026)**. With a background bridging technical architecture and creative brand management, I focus on building digital platforms where **privacy-first AI**, **zero-trust security**, and **striking UI/UX** converge.
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 🚀 CORE SPECIALIZATIONS                                                      │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 🛡️  Zero-Trust Systems  ▸ SRP auth, client-side encryption, E2EE vaults      │
+│ 🤖  Real-Time AI & CV   ▸ On-device gesture tracking, MediaPipe, WebRTC      │
+│ 🌍  Climate Intelligence▸ GIS data aggregation & disaster emergency action  │
+│ 🎨  Visual & UI Design  ▸ Brand identity systems, motion graphics, UI/UX    │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 📂 Featured Systems & Repositories
+
+<table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
+      <h3>🤟 <a href="https://github.com/diablovocado/Sign-Language-platform">SignBridge</a></h3>
+      <p><strong>Privacy-First Real-Time AI Sign Language Translator</strong></p>
+      <p>Real-time sign language translation platform enabling peer-to-peer video communication. Uses on-device computer vision and hand tracking to translate gestures without transmitting video frames to third-party servers.</p>
       <p>
-        I am a developer and designer based in <strong>Pune, India</strong>, pursuing a <strong>Diploma in Computer Engineering (Class of 2026)</strong>. I enjoy building digital products where clean code meets expressive visual storytelling.
+        <code>React 19</code> • <code>TypeScript</code> • <code>MediaPipe Hands</code> • <code>WebRTC</code> • <code>Vite</code>
       </p>
       <p>
-        With professional experience as a <strong>Graphic Designer</strong> and <strong>Social Media Manager</strong>, I specialize in branding, marketing campaigns, content strategy, and UI designs that engage audiences.
+        <a href="https://github.com/diablovocado/Sign-Language-platform">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="SignBridge" />
+        </a>
+        <img src="https://img.shields.io/badge/Privacy-100%25_On--Device-00F5FF?style=flat-square" alt="On Device" />
       </p>
-      <h4>🚀 Current Focus Areas</h4>
-      <ul>
-        <li>🤖 Artificial Intelligence & Data Science</li>
-        <li>🌐 Full Stack Web Development</li>
-        <li>🎨 Advanced Graphic & Motion Design</li>
-        <li>🔒 Privacy & Cybersecurity</li>
-      </ul>
     </td>
-    <td width="40%" valign="top" align="center">
-      <table style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; background-color: #0d1117;">
-        <tr>
-          <td>
-            <strong>🎓 Education</strong><br />
-            Diploma in Computer Engineering<br />
-            <em>Pune, Maharashtra, India</em>
-            <br /><br />
-            <strong>🌱 Learning Next</strong><br />
-            AI Agents • Machine Learning • Prompt Engineering • System Design
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/diablovocado/Declutr">Declutr</a></h3>
+      <p><strong>Zero-Trust Digital Life Vault & AI Knowledge OS</strong></p>
+      <p>Personal knowledge operating system with SRP-based authentication and client-side encrypted storage. Features a grounded RAG AI copilot to search and synthesize private assets with hybrid keyword + vector search.</p>
+      <p>
+        <code>TypeScript</code> • <code>Go</code> • <code>React</code> • <code>Express</code> • <code>MongoDB</code> • <code>RAG Vector AI</code>
+      </p>
+      <p>
+        <a href="https://github.com/diablovocado/Declutr">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Declutr" />
+        </a>
+        <img src="https://img.shields.io/badge/Security-Zero--Trust_SRP-FF007F?style=flat-square" alt="Zero Trust" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌍 <a href="https://github.com/diablovocado/ClimateOS">ClimateOS</a></h3>
+      <p><strong>AI-Powered Climate Disaster Intelligence Platform</strong></p>
+      <p>Transforms fragmented climate metrics and citizen observations into verified, localized, and actionable emergency response decisions before, during, and after disasters.</p>
+      <p>
+        <code>AI for Climate</code> • <code>GIS Metric Aggregation</code> • <code>Localized Response</code>
+      </p>
+      <p>
+        <a href="https://github.com/diablovocado/ClimateOS">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="ClimateOS" />
+        </a>
+        <img src="https://img.shields.io/badge/Focus-Climate_Action-7928CA?style=flat-square" alt="Climate Action" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐾 <a href="https://github.com/diablovocado/Pixel-Pet">Pixel-Pet</a></h3>
+      <p><strong>Interactive Desktop Companion & Web App</strong></p>
+      <p>A pixel cat for macOS and Windows that lives on your screen. Chases your cursor, reacts to active typing, naps at your dock, and keeps you company while working.</p>
+      <p>
+        <code>TypeScript</code> • <code>Canvas API</code> • <code>HTML/CSS</code> • <code>Electron</code>
+      </p>
+      <p>
+        <a href="https://diablovocado.github.io/Pixel-Pet/" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-00F5FF?style=flat-square" alt="Live Demo" />
+        </a>
+        <a href="https://diablovocado.github.io/Pixel-Pet/Pixel-Pet-Mac.zip">
+          <img src="https://img.shields.io/badge/💻_Mac_Download-FF007F?style=flat-square" alt="Mac App" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
-<hr />
+---
 
-## 🛠 Tech Stack
+### 🎨 Creative Design Studio & Portfolio
 
-### 💻 Development & Programming
-[![Development Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,java,cpp,react,nextjs,tailwind,bootstrap,nodejs,express&theme=dark)](https://skillicons.dev)
+> In addition to software engineering, I have worked as a **Graphic Designer & Social Media Manager**, creating visual identities, marketing campaigns, and UI/UX layouts.
 
-### 🗄️ Databases & Tools
-[![Databases and Tools](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,git,github,vscode,postman&theme=dark)](https://skillicons.dev)
+<div align="center">
+  <a href="https://behance.net/7487f4b5" target="_blank">
+    <img src="https://img.shields.io/badge/🎨_Explore_Creative_Portfolio_on_Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Portfolio" />
+  </a>
+</div>
 
-### 🎨 Design & Creative Suite
-[![Design Tools](https://skillicons.dev/icons?i=figma,ps,ai&theme=dark)](https://skillicons.dev)
+---
 
-<hr />
+### 🛠 Technical Arsenal
 
-## 🚀 Featured Projects
+#### 💻 Development & Engineering
+[![Skills](https://skillicons.dev/icons?i=ts,js,py,go,cpp,java,react,nextjs,tailwind,bootstrap,vite,nodejs,express&theme=dark)](https://skillicons.dev)
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏠 Lumina+</h3>
-      <p><strong>AI-powered Interior Design Platform</strong></p>
-      <p>An interactive canvas-based platform for room visualization and furniture placement.</p>
-      <ul>
-        <li>🤖 AI-driven room redesign capabilities</li>
-        <li>🎨 Interactive editor powered by Fabric.js</li>
-        <li>🛋️ 3D placement via Three.js integration</li>
-      </ul>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nextjs,tailwind,threejs,js" alt="Lumina+ Tech Stack" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔐 Declutr</h3>
-      <p><strong>Zero-Knowledge Digital Vault</strong></p>
-      <p>A highly secure vault focusing on user privacy and automated organization.</p>
-      <ul>
-        <li>🔒 End-to-End Cryptography</li>
-        <li>🔑 Multi-credential password manager</li>
-        <li>📂 AI-based auto-organization & smart search</li>
-      </ul>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="Declutr Tech Stack" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+#### 🗄️ Databases, Cloud & Infrastructure
+[![Tools](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,git,github,vscode,postman&theme=dark)](https://skillicons.dev)
 
-<br />
+#### 🎨 Design & Creative Suite
+[![Design](https://skillicons.dev/icons?i=figma,ps,ai&theme=dark)](https://skillicons.dev)
 
-> ### 🌐 Portfolio & Brand Designs
-> **Professional branding, marketing creatives, UI/UX designs, and social media campaigns.** Crafted visual identities and designed strategic content assets for multiple businesses.
-> 
-> <a href="https://skillicons.dev">
->   <img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Design Tech Stack" />
-> </a>
+---
 
-<hr />
+### 📊 System Telemetry & GitHub Stats
 
-## 📊 GitHub Metrics
-
-<!-- TIP: Replace YOUR_USERNAME with your real GitHub username to render stats -->
 <div align="center">
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=diablovocado&show_icons=true&theme=tokyonight&border_radius=10" height="180px" alt="GitHub Stats" />
+        <a href="https://github.com/diablovocado">
+          <img src="https://github-readme-stats.vercel.app/api?username=diablovocado&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" height="175px" alt="GitHub Stats" />
+        </a>
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=diablovocado&theme=tokyonight&border_radius=10" height="180px" alt="GitHub Streak" />
+        <a href="https://github.com/diablovocado">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=diablovocado&theme=tokyonight&border_radius=10" height="175px" alt="Streak Stats" />
+        </a>
       </td>
     </tr>
   </table>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diablovocado&layout=compact&theme=tokyonight&border_radius=10" height="160px" alt="Top Languages" />
+  <a href="https://github.com/diablovocado">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diablovocado&layout=compact&theme=tokyonight&border_radius=10&hide=html" height="165px" alt="Top Languages" />
+  </a>
 </div>
 
-<hr />
+---
 
-## 🤝 Let's Connect
+### 🤝 Connect & Handshake
 
 <div align="center">
-  <p>I'm always open to new projects, design collaborations, and technical discussions.</p>
-  <h3>
-    <a href="mailto:pawarmd37@gmail.com">📬 Email Me</a> &nbsp;•&nbsp; 
-    <a href="https://www.linkedin.com/in/maithili-pawar-b670892ab/" target="_blank">💼 LinkedIn</a> &nbsp;•&nbsp; 
-    <a href="https://www.behance.net/7487f4b5" target="_blank">🎨 Behance</a>
-  </h3>
-  
+  <p>Interested in collaborating on AI/Privacy projects, Full-Stack applications, or Creative Design?</p>
+
+  <p>
+    <a href="mailto:pawarmd37@gmail.com">
+      <img src="https://img.shields.io/badge/Email-pawarmd37%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/maithili-pawar-b670892ab/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Maithili_Pawar-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://behance.net/7487f4b5" target="_blank">
+      <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" />
+    </a>
+  </p>
+
   <br />
   <p>✨ <em>"Design with creativity. Build with purpose."</em> ✨</p>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F62FE&height=120&section=footer"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=00F5FF,7928CA,FF007F&height=80&section=footer" width="100%" alt="Footer Banner" />
 </div>
