@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=00F5FF,7928CA,FF007F&height=160&section=header&text=Maithili%20Pawar&fontSize=48&fontAlign=50&fontAlignY=38&animation=twinkling&desc=%E2%9A%A1%20Full-Stack%20Engineer%20%E2%80%A2%20Graphic%20Designer%20%E2%80%A2%20AI%20%26%20Privacy%20Architect&descSize=16&descAlign=50&descAlignY=64" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Maithili%20Pawar&fontSize=42&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Graphic%20Designer%20%E2%80%A2%20AI%20%26%20Privacy%20Architect&descSize=16&descAlign=50&descAlignY=62" width="100%" alt="Header Banner" />
 
   <br />
 
@@ -146,26 +146,26 @@ I am a **Full Stack Engineer** and **Graphic Designer** based in Pune, India, pu
 
 ---
 
-### 📊 System Telemetry & GitHub Stats
+### 📊 GitHub Stats & Language Telemetry
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center" valign="middle">
         <a href="https://github.com/diablovocado">
-          <img src="https://github-readme-stats.vercel.app/api?username=diablovocado&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" height="175px" alt="GitHub Stats" />
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=diablovocado&show_icons=true&theme=tokyonight&count_private=true" height="175px" alt="GitHub Stats" />
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://github.com/diablovocado">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=diablovocado&theme=tokyonight&border_radius=10" height="175px" alt="Streak Stats" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=diablovocado&layout=compact&theme=tokyonight" height="175px" alt="Top Languages" />
         </a>
       </td>
     </tr>
   </table>
   <br />
   <a href="https://github.com/diablovocado">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diablovocado&layout=compact&theme=tokyonight&border_radius=10&hide=html" height="165px" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diablovocado&theme=tokyonight" width="90%" alt="Profile Summary Details" />
   </a>
 </div>
 
@@ -186,12 +186,12 @@ I am a **Full Stack Engineer** and **Graphic Designer** based in Pune, India, pu
     </a>
     &nbsp;
     <a href="https://behance.net/7487f4b5" target="_blank">
-      <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" />
+      <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
     </a>
   </p>
 
   <br />
   <p>✨ <em>"Design with creativity. Build with purpose."</em> ✨</p>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&custom_color_list=00F5FF,7928CA,FF007F&height=80&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
