@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>👋 Hi, I'm Maithili Pawar</h1>
+  <h1>👋 Hi, I'm Maithh</h1>
   <h3>🎨 Graphic Designer • 💻 Full Stack Engineer • 🤖 AI & Privacy Architect</h3>
 
   <br />
