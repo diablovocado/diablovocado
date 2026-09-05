@@ -8,6 +8,7 @@
   <p align="center">
     <code>SYSTEM: ONLINE 🟢</code> &nbsp;|&nbsp; 
     <code>LOCATION: 📍 Pune, India</code> &nbsp;|&nbsp; 
+    <code>COMPANY: 🏢 Roida Media</code> &nbsp;|&nbsp;
     <code>CLASS: 🎓 Computer Engineering '26</code>
   </p>
 
@@ -27,7 +28,7 @@
   </p>
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Building+Privacy-First+AI+%26+On-Device+Vision+Apps;Where+expressive+visual+design+meets+robust+code;Architecting+Zero-Trust+vaults+%26+Climate+Intelligence;Creating+delightful+desktop+companions+%26+brand+identities" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Building+Privacy-First+AI+%26+On-Device+Vision+Apps;Architecting+Patient-Owned+Digital+Health+OS;Where+expressive+visual+design+meets+robust+code;Architecting+Zero-Trust+vaults+%26+Climate+Intelligence;Creating+delightful+desktop+companions+%26+brand+identities" alt="Typing Banner" />
   </a>
 
 </div>
@@ -38,12 +39,13 @@
 
 > *"Code provides the infrastructure; design gives it a soul."*
 
-I am a **Full Stack Engineer** and **Graphic Designer** based in Pune, India, pursuing a **Diploma in Computer Engineering (Class of 2026)**. With a background bridging technical architecture and creative brand management, I focus on building digital platforms where **privacy-first AI**, **zero-trust security**, and **striking UI/UX** converge.
+I am a **Full Stack Engineer** and **Graphic Designer** based in Pune, India (working at **Roida Media**), pursuing a **Diploma in Computer Engineering (Class of 2026)**. With a background bridging technical architecture and creative brand management, I focus on building digital platforms where **privacy-first AI**, **zero-trust security**, **health-tech & patient-owned systems**, and **striking UI/UX** converge.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │ 🚀 CORE SPECIALIZATIONS                                                      │
 ├─────────────────────────────────────────────────────────────────────────────┤
+│ 🩺  Health & MedTech   ▸ Patient-owned record platforms, longitudinal care   │
 │ 🛡️  Zero-Trust Systems  ▸ SRP auth, client-side encryption, E2EE vaults      │
 │ 🤖  Real-Time AI & CV   ▸ On-device gesture tracking, MediaPipe, WebRTC      │
 │ 🌍  Climate Intelligence▸ GIS data aggregation & disaster emergency action  │
@@ -72,6 +74,22 @@ I am a **Full Stack Engineer** and **Graphic Designer** based in Pune, India, pu
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>🩺 <a href="https://github.com/diablovocado/CareChronicle">CareChronicle</a></h3>
+      <p><strong>Patient-Owned Digital Medical Record & Care Platform</strong></p>
+      <p>Organizes fragmented medical documents, appointments, treatment timelines, and care packages into a structured, evidence-linked longitudinal story with mobile PWA support.</p>
+      <p>
+        <code>JavaScript</code> • <code>Mobile PWA</code> • <code>Responsive Web</code> • <code>Longitudinal Care</code>
+      </p>
+      <p>
+        <a href="https://github.com/diablovocado/CareChronicle">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="CareChronicle" />
+        </a>
+        <img src="https://img.shields.io/badge/Focus-Health%20Tech-E91E63?style=flat-square" alt="Health Tech" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🔐 <a href="https://github.com/diablovocado/Declutr">Declutr</a></h3>
       <p><strong>Zero-Trust Digital Life Vault & AI Knowledge OS</strong></p>
       <p>Personal knowledge operating system with SRP-based authentication and client-side encrypted storage. Features a grounded RAG AI copilot to search and synthesize private assets with hybrid keyword + vector search.</p>
@@ -85,8 +103,6 @@ I am a **Full Stack Engineer** and **Graphic Designer** based in Pune, India, pu
         <img src="https://img.shields.io/badge/Security-Zero--Trust_SRP-FF007F?style=flat-square" alt="Zero Trust" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🌍 <a href="https://github.com/diablovocado/ClimateOS">ClimateOS</a></h3>
       <p><strong>AI-Powered Climate Disaster Intelligence Platform</strong></p>
@@ -101,6 +117,8 @@ I am a **Full Stack Engineer** and **Graphic Designer** based in Pune, India, pu
         <img src="https://img.shields.io/badge/Focus-Climate_Action-7928CA?style=flat-square" alt="Climate Action" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🐾 <a href="https://github.com/diablovocado/Pixel-Pet">Pixel-Pet</a></h3>
       <p><strong>Interactive Desktop Companion & Web App</strong></p>
@@ -109,13 +127,15 @@ I am a **Full Stack Engineer** and **Graphic Designer** based in Pune, India, pu
         <code>TypeScript</code> • <code>Canvas API</code> • <code>HTML/CSS</code> • <code>Electron</code>
       </p>
       <p>
+        <a href="https://github.com/diablovocado/Pixel-Pet">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Pixel-Pet" />
+        </a>
         <a href="https://diablovocado.github.io/Pixel-Pet/" target="_blank">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-00F5FF?style=flat-square" alt="Live Demo" />
         </a>
-        <a href="https://diablovocado.github.io/Pixel-Pet/Pixel-Pet-Mac.zip">
-          <img src="https://img.shields.io/badge/💻_Mac_Download-FF007F?style=flat-square" alt="Mac App" />
-        </a>
       </p>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
@@ -175,7 +195,7 @@ I am a **Full Stack Engineer** and **Graphic Designer** based in Pune, India, pu
 ### 🤝 Connect & Handshake
 
 <div align="center">
-  <p>Interested in collaborating on AI/Privacy projects, Full-Stack applications, or Creative Design?</p>
+  <p>Interested in collaborating on AI/Privacy projects, Full-Stack applications, Health-Tech, or Creative Design?</p>
 
   <p>
     <a href="mailto:pawarmd37@gmail.com">
