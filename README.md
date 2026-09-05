@@ -165,5 +165,7 @@
   <a href="mailto:pawarmd37@gmail.com?subject=Hi%20Maithili%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Gmail&amp;color=EA4335&amp;logo=Gmail&amp;logoColor=FFFFFF&amp;label="></a>
 </div>
 <hr>
-<p>Credits: <a href="https://github.com/Austinae">Austinae</a>
-<br>Customized for: <a href="https://github.com/diablovocado">Maithili Pawar (diablovocado)</a></p>
+
+<p align="center">
+  Customized for: <a href="https://github.com/diablovocado">Maithili Pawar (diablovocado)</a> ✨
+</p>
