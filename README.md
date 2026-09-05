@@ -9,51 +9,39 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=35&amp;duration=3500&amp;pause=300&amp;color=A89568&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hey%2C+I'm+Maithili+Pawar;aka+diablovocado;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Graphic+Designer;Inquisitive+by+nature;AI+%26+Privacy+Architect;Zero-Trust+Vaults;Patient-Owned+Health+OS;Creative+soul" alt="Typing SVG"></a>
   </div>
 </div>
-<details>
-<summary>About me</summary>
+<details open>
+<summary>💡 About me</summary>
+<br>
 <div align="left">
 
-```typescript
-/**
- * ⚡ DEVELOPER & DESIGNER SPEC SHEET
- * ==================================================================================
- *  Class: MaithiliPawar extends Architect implements FullStackEngineer, GraphicDesigner
- * ==================================================================================
- */
-class MaithiliPawar implements CreativeEngineer {
-  readonly identity       = "Maithili Pawar (aka @diablovocado)";
-  readonly location       = "📍 Pune, India";
-  readonly company        = "🏢 Roida Media";
-  readonly education      = "🎓 Diploma in Computer Engineering ('26)";
-  readonly languages      = ["English", "Hindi", "Marathi"];
+### 👋 Hi, I'm Maithili Pawar (`@diablovocado`)
+> 🎨 **Graphic Designer** • 💻 **Full Stack Engineer** • 🤖 **AI & Privacy Architect**
 
-  // 🚀 Visual & Technical Superpowers
-  public specializations  = [
-    "🤖 On-Device Privacy AI & Vision (MediaPipe, WebRTC)",
-    "🔐 Zero-Trust Digital Vaults & Cryptography (SRP Auth)",
-    "🩺 Patient-Owned Digital Health OS (PWA, Longitudinal Care)",
-    "🌍 Climate Disaster Intelligence & GIS Metric Aggregation",
-    "🎨 Brand Identity, Motion Graphics & Visual UI/UX Layouts"
-  ];
+---
 
-  public hobbies          = ["Pixel Art 👾", "Digital Illustration 🖌️", "UI/UX Prototyping 🎨", "Reading 📚"];
-  public strength         = "Bridging expressive visual design with robust, secure code";
-  public weakness         = "Perfectionism & zero tolerance for misaligned pixels";
+#### 📌 Profile Telemetry
+* 📍 **Location:** Pune, India
+* 🏢 **Company:** Roida Media
+* 🎓 **Education:** Diploma in Computer Engineering (Class of '26)
+* 🗣️ **Languages:** English, Hindi, Marathi
+* ✨ **Philosophy:** *"Code provides the infrastructure; design gives it a soul."*
 
-  /**
-   * 💡 Core execution engine
-   */
-  public async buildApplication(concept: Vision): Promise<Application> {
-    const designSoul = await this.renderAestheticUI(concept.designSystem);
-    const zeroTrustEngine = await this.buildEncryptedCore(concept.securityRules);
-    return new Application({ designSoul, zeroTrustEngine });
-  }
+---
 
-  public handleBug(bug: Bug): void {
-    throw new Punch("Eliminating bad alignment & unhandled exceptions! 🥊💥");
-  }
-}
-```
+#### 🚀 Specializations & Superpowers
+* 🤖 **Real-Time AI & Vision:** On-device gesture tracking, MediaPipe Hands, WebRTC peer-to-peer communication
+* 🔐 **Zero-Trust Vaults:** SRP authentication, client-side encryption, end-to-end encrypted storage
+* 🩺 **Health & MedTech:** Patient-owned digital medical records & longitudinal care timelines
+* 🌍 **Climate Intelligence:** GIS metric aggregation & disaster emergency response platforms
+* 🎨 **Visual & UI/UX Design:** Brand identity systems, motion graphics, digital illustration & UI layouts
+
+---
+
+#### 🎯 Personal Traits & Hobbies
+* 💪 **Strengths:** Seamlessly bridging expressive creative visual design with robust, secure code
+* ⚡ **Hobbies:** Pixel art 👾, Digital illustration 🖌️, Motion graphics 🎬, Reading 📚
+* 🎯 **Weakness:** Perfectionism & zero tolerance for misaligned pixels!
+* 💥 **Bug Handling:** Eliminating any and all bugs with zero mercy! 🥊💥
 
 </div>
 </details>
