@@ -12,23 +12,49 @@
 <details>
 <summary>About me</summary>
 <div align="left">
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#6A737D">/**</span></span>
-<span class="line"><span style="color:#6A737D"> * Represents me.</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@constructor</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> city</span><span style="color:#6A737D"> - Pune, India.</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> company</span><span style="color:#6A737D"> - Roida Media.</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> languages</span><span style="color:#6A737D"> - English, Hindi, Marathi.</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> jobTitle</span><span style="color:#6A737D"> - Full Stack Engineer & Graphic Designer.</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> specialization</span><span style="color:#6A737D"> - Building privacy-first AI & zero-trust applications.</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> interests</span><span style="color:#6A737D"> - On-device AI, Computer Vision, Cryptography & Climate Action.</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> hobbies</span><span style="color:#6A737D"> - Pixel art, Brand design, Motion graphics & Digital illustration.</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> education</span><span style="color:#6A737D"> - Diploma in Computer Engineering ('26).</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> approachable</span><span style="color:#6A737D"> - Yes, to collaborate on exciting projects, don't hesitate to reach out.</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> strength</span><span style="color:#6A737D"> - Bridging creative visual UI design with robust code.</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@param</span><span style="color:#B392F0"> {string}</span><span style="color:#E1E4E8"> weakness</span><span style="color:#6A737D"> - Perfectionism.</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@throws</span><span style="color:#B392F0"> {Punch}</span><span style="color:#6A737D"> To any and all bugs and bad UI alignment.</span></span>
-<span class="line"><span style="color:#6A737D"> * </span><span style="color:#F97583">@returns</span><span style="color:#B392F0"> {Object}</span><span style="color:#6A737D"> MaithiliPawar.</span></span>
-<span class="line"><span style="color:#6A737D"> */</span></span></code></pre>
+
+```typescript
+/**
+ * ⚡ DEVELOPER & DESIGNER SPEC SHEET
+ * ==================================================================================
+ *  Class: MaithiliPawar extends Architect implements FullStackEngineer, GraphicDesigner
+ * ==================================================================================
+ */
+class MaithiliPawar implements CreativeEngineer {
+  readonly identity       = "Maithili Pawar (aka @diablovocado)";
+  readonly location       = "📍 Pune, India";
+  readonly company        = "🏢 Roida Media";
+  readonly education      = "🎓 Diploma in Computer Engineering ('26)";
+  readonly languages      = ["English", "Hindi", "Marathi"];
+
+  // 🚀 Visual & Technical Superpowers
+  public specializations  = [
+    "🤖 On-Device Privacy AI & Vision (MediaPipe, WebRTC)",
+    "🔐 Zero-Trust Digital Vaults & Cryptography (SRP Auth)",
+    "🩺 Patient-Owned Digital Health OS (PWA, Longitudinal Care)",
+    "🌍 Climate Disaster Intelligence & GIS Metric Aggregation",
+    "🎨 Brand Identity, Motion Graphics & Visual UI/UX Layouts"
+  ];
+
+  public hobbies          = ["Pixel Art 👾", "Digital Illustration 🖌️", "UI/UX Prototyping 🎨", "Reading 📚"];
+  public strength         = "Bridging expressive visual design with robust, secure code";
+  public weakness         = "Perfectionism & zero tolerance for misaligned pixels";
+
+  /**
+   * 💡 Core execution engine
+   */
+  public async buildApplication(concept: Vision): Promise<Application> {
+    const designSoul = await this.renderAestheticUI(concept.designSystem);
+    const zeroTrustEngine = await this.buildEncryptedCore(concept.securityRules);
+    return new Application({ designSoul, zeroTrustEngine });
+  }
+
+  public handleBug(bug: Bug): void {
+    throw new Punch("Eliminating bad alignment & unhandled exceptions! 🥊💥");
+  }
+}
+```
+
 </div>
 </details>
 <details>
