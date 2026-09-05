@@ -6,9 +6,6 @@
 <p><br></p>
 <div>
   <div align="center">
-      <img height="200" alt="Maithili Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,11,20,30,40&height=200&section=header&text=Maithili%20Pawar&fontSize=40&fontColor=00F5FF&animation=twinkling&desc=Full%20Stack%20Engineer%20%7C%20Graphic%20Designer%20%7C%20AI%20%26%20Privacy%20Architect&descSize=16&descAlignY=70">
-  </div>
-  <div align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=35&amp;duration=3500&amp;pause=300&amp;color=A89568&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hey%2C+I'm+Maithili+Pawar;aka+diablovocado;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Graphic+Designer;Inquisitive+by+nature;AI+%26+Privacy+Architect;Zero-Trust+Vaults;Patient-Owned+Health+OS;Creative+soul" alt="Typing SVG"></a>
   </div>
 </div>
