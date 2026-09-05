@@ -1,15 +1,14 @@
 <div align="center">
-  
-  <h1>👋 Hi, I'm Maithh</h1>
-  <h3>🎨 Graphic Designer • 💻 Full Stack Engineer • 🤖 AI & Privacy Architect</h3>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,11,20,30,40&height=200&section=header&text=Maithili%20Pawar&fontSize=42&fontColor=00F5FF&animation=twinkling&desc=Full%20Stack%20Engineer%20%7C%20Graphic%20Designer%20%7C%20AI%20%26%20Privacy%20Architect&descSize=18&descAlignY=70" width="100%" alt="Header Banner" />
 
   <br />
 
   <p align="center">
-    <code>SYSTEM: ONLINE 🟢</code> &nbsp;|&nbsp; 
-    <code>LOCATION: 📍 Pune, India</code> &nbsp;|&nbsp; 
-    <code>COMPANY: 🏢 Roida Media</code> &nbsp;|&nbsp;
-    <code>CLASS: 🎓 Computer Engineering '26</code>
+    <img src="https://img.shields.io/badge/Status-ONLINE_🟢-00F5FF?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status" />
+    <img src="https://img.shields.io/badge/Location-Pune%2C_India_📍-1769FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Company-Roida_Media_🏢-7928CA?style=for-the-badge&logo=building&logoColor=white" alt="Company" />
+    <img src="https://img.shields.io/badge/Education-Comp_Engineering_'26_🎓-FF007F?style=for-the-badge&logo=education&logoColor=white" alt="Education" />
   </p>
 
   <p align="center">
@@ -28,29 +27,31 @@
   </p>
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Building+Privacy-First+AI+%26+On-Device+Vision+Apps;Architecting+Patient-Owned+Digital+Health+OS;Where+expressive+visual+design+meets+robust+code;Architecting+Zero-Trust+vaults+%26+Climate+Intelligence;Creating+delightful+desktop+companions+%26+brand+identities" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=🎨+Where+Expressive+Design+Meets+Robust+Code;🤖+Building+Privacy-First+AI+%26+On-Device+Vision;🩺+Architecting+Patient-Owned+Digital+Health+OS;🔐+Crafting+Zero-Trust+Vaults+%26+Climate+Intelligence;🐾+Creating+Interactive+Desktop+Companions" alt="Typing Banner" />
   </a>
 
 </div>
 
+<br />
+
 ---
 
-### 💡 About & Engineering Philosophy
+### ⚡ Identity Matrix & Vision
 
-> *"Code provides the infrastructure; design gives it a soul."*
+> 💬 *"Code provides the infrastructure; design gives it a soul."*
 
-I am a **Full Stack Engineer** and **Graphic Designer** based in Pune, India (working at **Roida Media**), pursuing a **Diploma in Computer Engineering (Class of 2026)**. With a background bridging technical architecture and creative brand management, I focus on building digital platforms where **privacy-first AI**, **zero-trust security**, **health-tech & patient-owned systems**, and **striking UI/UX** converge.
+I am a **Full Stack Engineer** and **Graphic Designer** based in Pune, India, working at **Roida Media** and pursuing a **Diploma in Computer Engineering (Class of 2026)**. I specialize in bridging high-impact visual design with privacy-conscious software architecture.
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ 🚀 CORE SPECIALIZATIONS                                                      │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 🩺  Health & MedTech   ▸ Patient-owned record platforms, longitudinal care   │
-│ 🛡️  Zero-Trust Systems  ▸ SRP auth, client-side encryption, E2EE vaults      │
-│ 🤖  Real-Time AI & CV   ▸ On-device gesture tracking, MediaPipe, WebRTC      │
-│ 🌍  Climate Intelligence▸ GIS data aggregation & disaster emergency action  │
-│ 🎨  Visual & UI Design  ▸ Brand identity systems, motion graphics, UI/UX    │
-└─────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ 🚀 CORE SPECIALIZATIONS                                                       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ 🩺  Health & MedTech   ▸ Patient-owned record platforms, longitudinal care    │
+│ 🛡️  Zero-Trust Systems  ▸ SRP auth, client-side encryption, E2EE vaults       │
+│ 🤖  Real-Time AI & CV   ▸ On-device gesture tracking, MediaPipe, WebRTC       │
+│ 🌍  Climate Intelligence▸ GIS data aggregation & disaster emergency action   │
+│ 🎨  Visual & UI Design  ▸ Brand identity systems, motion graphics, UI/UX     │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -136,81 +137,90 @@ I am a **Full Stack Engineer** and **Graphic Designer** based in Pune, India (wo
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>🎨 <a href="https://behance.net/7487f4b5" target="_blank">Creative Portfolio</a></h3>
+      <p><strong>Brand Identity, UI/UX & Motion Design Studio</strong></p>
+      <p>Crafting visual brand language, user experience prototypes, and marketing assets across social media and digital platforms.</p>
+      <p>
+        <code>Figma</code> • <code>Photoshop</code> • <code>Illustrator</code> • <code>UI/UX Design</code>
+      </p>
+      <p>
+        <a href="https://behance.net/7487f4b5" target="_blank">
+          <img src="https://img.shields.io/badge/🎨_View_on_Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🎨 Creative Design Studio & Portfolio
+### 🛠️ Cyber Arsenal & Tech Stack
 
-> In addition to software engineering, I have worked as a **Graphic Designer & Social Media Manager**, creating visual identities, marketing campaigns, and UI/UX layouts.
+#### 💻 Development & Core Runtimes
+[![Languages & Core](https://skillicons.dev/icons?i=ts,js,py,go,cpp,java&theme=dark)](https://skillicons.dev)
 
-<div align="center">
-  <a href="https://behance.net/7487f4b5" target="_blank">
-    <img src="https://img.shields.io/badge/🎨_Explore_Creative_Portfolio_on_Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Portfolio" />
-  </a>
-</div>
+#### 🌐 Frontend & Web Architecture
+[![Frontend Stack](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,html,css&theme=dark)](https://skillicons.dev)
 
----
+#### ⚙️ Backend, Cloud & Infrastructure
+[![Backend & DB](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,firebase,git,github,vscode,postman&theme=dark)](https://skillicons.dev)
 
-### 🛠 Technical Arsenal
-
-#### 💻 Development & Engineering
-[![Skills](https://skillicons.dev/icons?i=ts,js,py,go,cpp,java,react,nextjs,tailwind,bootstrap,vite,nodejs,express&theme=dark)](https://skillicons.dev)
-
-#### 🗄️ Databases, Cloud & Infrastructure
-[![Tools](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,git,github,vscode,postman&theme=dark)](https://skillicons.dev)
-
-#### 🎨 Design & Creative Suite
-[![Design](https://skillicons.dev/icons?i=figma,ps,ai&theme=dark)](https://skillicons.dev)
+#### 🎨 Creative Design & Visual Suite
+[![Design Tools](https://skillicons.dev/icons?i=figma,ps,ai&theme=dark)](https://skillicons.dev)
 
 ---
 
-### 📊 GitHub Stats & Language Telemetry
+### 📊 Live GitHub Telemetry
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center" valign="middle">
         <a href="https://github.com/diablovocado">
-          <img src="https://github-readme-stats-fast.vercel.app/api?username=diablovocado&show_icons=true&theme=tokyonight&count_private=true" height="175px" alt="GitHub Stats" />
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=diablovocado&show_icons=true&theme=tokyonight&count_private=true" height="180px" alt="GitHub Stats" />
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://github.com/diablovocado">
-          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=diablovocado&layout=compact&theme=tokyonight" height="175px" alt="Top Languages" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=diablovocado&layout=compact&theme=tokyonight" height="180px" alt="Top Languages" />
         </a>
       </td>
     </tr>
   </table>
   <br />
   <a href="https://github.com/diablovocado">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diablovocado&theme=tokyonight" width="90%" alt="Profile Summary Details" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diablovocado&theme=tokyonight&hide_border=true" width="88%" alt="GitHub Streak" />
   </a>
 </div>
 
+<br />
+
 ---
 
-### 🤝 Connect & Handshake
+### 🤝 Connect & Collaborate
 
 <div align="center">
-  <p>Interested in collaborating on AI/Privacy projects, Full-Stack applications, Health-Tech, or Creative Design?</p>
+  <p>Interested in collaborating on AI/Privacy projects, Health-Tech platforms, Full-Stack applications, or Creative Brand Design?</p>
 
   <p>
     <a href="mailto:pawarmd37@gmail.com">
-      <img src="https://img.shields.io/badge/Email-pawarmd37%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-pawarmd37%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
     <a href="https://linkedin.com/in/maithili-pawar-b670892ab/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Maithili_Pawar-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Maithili_Pawar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://behance.net/7487f4b5" target="_blank">
-      <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+      <img src="https://img.shields.io/badge/Behance-Creative_Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
     </a>
   </p>
 
   <br />
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=diablovocado&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS+👁️" alt="Profile Views" />
+  </p>
+
   <p>✨ <em>"Design with creativity. Build with purpose."</em> ✨</p>
 </div>
